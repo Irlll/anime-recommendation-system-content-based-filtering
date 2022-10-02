@@ -279,7 +279,11 @@ Berikut top 5 rekomendasi :
 
 Sistem telah berhasil merekomendasikan top 5 persen anime yang mirip dengan naruto, yaitu beberapa film dan seri dari naruto itu sendiri. Jadi, jika pengguna menyunkai naruto, maka sistem dapat merekomendasikan seri atau movie naruto lainnya.
 
+<br>
+
 ## Evaluation
 Evaluasi hasil sistem dengan recommender system precision dalam menemukan rekomendasi dari anime naruto adalah sebesar 5/5 atau 100%.
 
 <div><img src="https://user-images.githubusercontent.com/107544829/190915653-cf57d3de-db41-455c-b060-b4dd6630157b.png" width="500"/></div>
+
+<br>
